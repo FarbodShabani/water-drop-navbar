@@ -8,6 +8,8 @@ Replit: https://replit.com/@farbodesham/water-drop-navbar
 
 CodeSandBox: https://codesandbox.io/s/water-drop-navbar-g6wmxv
 
+Stackblitz: https://stackblitz.com/edit/water-drop-navbar?file=src/index.js&hideDevTools=1
+
 Link for the HTML, CSS, and JS is : 
 
 codepen: https://codepen.io/pen?template=jOKrzVL
