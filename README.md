@@ -18,3 +18,4 @@ Link for the HTML, CSS, and JS is :
 
 [CodeSandBox](https://codesandbox.io/s/packageless-modal-carousel-html-css-js-yl7z0s)
 
+[Stackblitz](https://stackblitz.com/edit/web-platform-nqg8ga?file=script.js&hideDevTools=1)
