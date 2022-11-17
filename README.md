@@ -16,6 +16,6 @@ Link for the HTML, CSS, and JS is :
 
 [Replit](https://replit.com/@farbodesham/water-drop-navbar-html-css-js?v=1)
 
-[CodeSandBox](https://codesandbox.io/s/yl7z0s)
+[CodeSandBox](https://codesandbox.io/s/water-drop-navbar-static-cyckk0)
 
 [Stackblitz](https://stackblitz.com/edit/web-platform-nqg8ga?file=script.js&hideDevTools=1)
