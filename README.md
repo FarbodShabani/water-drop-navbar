@@ -12,5 +12,6 @@ Links for the react versions are:
 
 Link for the HTML, CSS, and JS is : 
 
-[codepen](https://codepen.io/pen?template=jOKrzVL)
+[Codepen](https://codepen.io/pen?template=jOKrzVL)
+[Replit](https://replit.com/@farbodesham/water-drop-navbar-html-css-js?v=1)
 
