@@ -18,4 +18,4 @@ Link for the HTML, CSS, and JS is :
 
 [CodeSandBox](https://codesandbox.io/s/water-drop-navbar-static-cyckk0)
 
-[Stackblitz](https://stackblitz.com/edit/web-platform-nqg8ga?file=script.js&hideDevTools=1)
+[Stackblitz](https://stackblitz.com/edit/water-drop-navbar-html-css-js?file=script.js&hideDevTools=1)
